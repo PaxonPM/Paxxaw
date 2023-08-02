@@ -67,3 +67,6 @@
 </a>
 
 </p>
+
+<h6>Contributors</h6>
+<a href="https://www.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_20188201.htm#query=computer%20cartoon&position=0&from_view=keyword&track=ais">Profile image by catalyststuff</a> on Freepik
