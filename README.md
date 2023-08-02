@@ -1,6 +1,6 @@
 <h2> Hey 👋, I'm Metariz</h2>
 
-- I have a big interest in **Full Stack development** particularly MERN and Django
+- I have a big interest in **Full Stack development** particularly MERN
 - I am a **Software Engineering** student
 - Spending my free time working on various projects here 😀
 
