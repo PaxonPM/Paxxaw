@@ -54,7 +54,7 @@
   <img src='https://cdn.worldvectorlogo.com/logos/redux.svg' alt="redux" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com/" target='_blank' rel='noreferrer'>
-  <img src='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg' alt="express" width="40" height="40"/>
+  <img src='https://img.icons8.com/?size=512&id=2ZOaTclOqD4q&format=png' alt="express" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target='_blank' rel='noreferrer'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg' alt="mongoDB" width="40" height="40"/>
