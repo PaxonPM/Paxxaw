@@ -13,17 +13,12 @@
 <a href="https://www.java.com/en/" target='_blank' rel='noreferrer'>
 <img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' alt="java" width="40" height="40"/>
 </a>
-
 <a href="https://maven.apache.org/" target='_blank' rel='noreferrer'>
 <img src='https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_maven.svg' alt="maven" width="40" height="40"/>
 </a>
 <a href="https://spring.io/" target='_blank' rel='noreferrer'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg' alt="spring" width="40" height="40"/>
 </a>
-<a href="https://spring.io/projects/spring-boot" target='_blank' rel='noreferrer'>
-<img src='https://icons8.com/icon/A3Ulk2RcONKs/spring-boot' alt="springboot" width="40" height="40"/>
-</a>
-
 <a href="https://www.python.org/" target='_blank' rel='noreferrer'>
   <img src='https://www.vectorlogo.zone/logos/python/python-icon.svg' alt="python" width="40" height="40"/>
 </a>
@@ -50,8 +45,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target='_blank' rel='noreferrer'>
   <img src='https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg' alt="javascript" width="40" height="40"/>
 </a>
-  <a href="https://nodejs.org/en" target='_blank' rel='noreferrer'>
-  <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg' alt="node.js" width="40" height="40"/>
+<a href="https://www.typescriptlang.org/" target='_blank' rel='noreferrer'>
+  <img src='https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg' alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/en" target='_blank' rel='noreferrer'>
+<img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg' alt="node.js" width="40" height="40"/>
 </a>
 <a href="https://react.dev/" target='_blank' rel='noreferrer'>
   <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' alt="react" width="40" height="40"/>
