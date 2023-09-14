@@ -11,7 +11,7 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' alt="c" width="40" height="40"/>
 </a>
 <a href="https://www.java.com/en/" target='_blank' rel='noreferrer'>
-<img src='https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg' alt="java" width="40" height="40"/>
+<img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' alt="java" width="40" height="40"/>
 </a>
 
 <a href="https://www.python.org/" target='_blank' rel='noreferrer'>
