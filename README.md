@@ -1,8 +1,6 @@
-<h2> Hey 👋, I'm Metariz</h2>
-
-- I have a big interest in **Full Stack development** particularly MERN
-- I am a **Software Engineering** student
-- Spending my free time working on various projects here 😀
+<h2> Hey 👋, I'm Pax</h2>
+ 
+ I am doing various projects, mostly focused on **Web Apps** atm😀
 
 
 <h3 align='left'>Tools and Languages</h3>
