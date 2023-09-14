@@ -17,7 +17,7 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg' alt="spring" width="40" height="40"/>
 </a>
 <a href="https://spring.io/projects/spring-boot" target='_blank' rel='noreferrer'>
-<img src='https://static.javatpoint.com/springboot/images/spring-boot-tutorial.jpg' alt="springboot" width="40" height="40"/>
+<img src='https://icons8.com/icon/A3Ulk2RcONKs/spring-boot' alt="springboot" width="40" height="40"/>
 </a>
 
 <a href="https://www.python.org/" target='_blank' rel='noreferrer'>
