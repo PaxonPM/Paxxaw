@@ -10,9 +10,10 @@
 <a href="https://www.w3schools.com/c/c_intro.php" target='_blank' rel='noreferrer'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' alt="c" width="40" height="40"/>
 </a>
-<a href="https://vhdlguide.readthedocs.io/en/latest/" target='_blank' rel='noreferrer'>
-  <img src='https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vhdl.svg' alt="VHDL" width="40" height="40"/>
+<a href="https://www.java.com/en/" target='_blank' rel='noreferrer'>
+<img src='https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg' alt="java" width="40" height="40"/>
 </a>
+
 <a href="https://www.python.org/" target='_blank' rel='noreferrer'>
   <img src='https://www.vectorlogo.zone/logos/python/python-icon.svg' alt="python" width="40" height="40"/>
 </a>
@@ -26,12 +27,7 @@
 <a href="https://pandas.pydata.org/" target='_blank' rel='noreferrer'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' alt="pandas" width="40" height="40"/>
 </a>
-<a href="https://www.tensorflow.org/" target='_blank' rel='noreferrer'>
-  <img src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' alt="tensorflow" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target='_blank' rel='noreferrer'>
-  <img src='https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg' alt="django" width="40" height="40"/>
-</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target='_blank' rel='noreferrer'>
   <img src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' alt="html" width="40" height="40"/>
 </a>
@@ -62,9 +58,7 @@
 <a href="https://firebase.google.com/" target='_blank' rel='noreferrer'>
   <img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' alt="firebase" width="40" height="40"/>
 </a>
-<a href="https://www.netlify.com/?attr=homepage-modal" target='_blank' rel='noreferrer'>
-  <img src='https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg' alt="netlify" width="40" height="40"/>
-</a>
+
 
 </p>
 
