@@ -13,6 +13,10 @@
 <a href="https://www.java.com/en/" target='_blank' rel='noreferrer'>
 <img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' alt="java" width="40" height="40"/>
 </a>
+
+<a href="https://maven.apache.org/" target='_blank' rel='noreferrer'>
+<img src='https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_maven.svg' alt="maven" width="40" height="40"/>
+</a>
 <a href="https://spring.io/" target='_blank' rel='noreferrer'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg' alt="spring" width="40" height="40"/>
 </a>
