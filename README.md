@@ -17,7 +17,7 @@
 <img src='https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_maven.svg' alt="maven" width="40" height="40"/>
 </a>
 <a href="https://spring.io/" target='_blank' rel='noreferrer'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg' alt="spring" width="40" height="40"/>
+<img src='https://www.vectorlogo.zone/logos/springio/springio-icon.svg' alt="spring" width="40" height="40"/>
 </a>
 <a href="https://www.python.org/" target='_blank' rel='noreferrer'>
   <img src='https://www.vectorlogo.zone/logos/python/python-icon.svg' alt="python" width="40" height="40"/>
