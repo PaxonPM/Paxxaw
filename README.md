@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Paxxaw  
+# 👋 Hey, I’m Paxon 
 
 🎓 I’m a **student** studying **AP Computer Science**, still exploring where I want to specialize.  
 Right now my main interests are:  
