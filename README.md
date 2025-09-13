@@ -1,6 +1,33 @@
-<h2> Hey 👋, I'm Pax</h2>
- 
- I am doing various projects, mostly focused on **Web Apps** atm😀
+# 👋 Hey, I’m Paxxaw  
+
+🎓 I’m a **student** studying **AP Computer Science**, still exploring where I want to specialize.  
+Right now my main interests are:  
+
+- 🔐 **IT Security** – breaking & fixing things  
+- 🛠 **Tooling** – building small utilities like [PwdAudit](https://github.com/Paxxaw/PwdAudit)  
+- 🤖 **AI** – experimenting with what’s possible  
+- ⚙️ **Web Development (Backend)** – APIs, data, and functionality over flashy design  
+
+---
+
+## 💡 What I’m up to  
+- Learning by doing – pushing code, breaking stuff, fixing it again.  
+- Playing around with **.NET, C#, and scripting**.  
+- Building projects that feel *practical* but also a little ✨cool✨.  
+
+---
+
+## 📊 GitHub Stats  
+![Paxxaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paxxaw&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Let’s connect  
+- GitHub: [@Paxxaw](https://github.com/Paxxaw)  
+<!-- - Discord: yourUsername#1234 -->
+<!-- - LinkedIn: [Your Name](#) -->
+<!-- - Personal Site: [paxon.dk](#) -->
+
 
 
 <h3 align='left'>Tools and Languages</h3>
