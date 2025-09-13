@@ -29,7 +29,7 @@ Right now my main interests are:
 <!-- - LinkedIn: [Your Name](#) -->
 <!-- - Personal Site: [paxon.dk](#) -->
 
--->
+
 
 
 <h3 align='left'>Tools and Languages</h3>
