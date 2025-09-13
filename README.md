@@ -11,9 +11,12 @@ Right now my main interests are:
 ---
 
 ## 💡 What I’m up to  
-- Learning by doing – pushing code, breaking stuff, fixing it again.  
-- Playing around with **.NET, C#, and scripting**.  
-- Building projects that feel *practical* but also a little ✨cool✨.  
+- Learning by doing — writing code, running into bugs, and slowly getting better with each fix.  
+- Spending time with **.NET, C#, and scripting**, trying to make things a little smoother and more efficient.  
+- Building small projects that feel useful and teach me something new along the way.  
+- Taking mistakes as part of the process (every error is just the compiler’s way of teaching, right?).  
+- Running mostly on curiosity and a dash of stubbornness — because apparently semicolons only behave when you refuse to give up.  
+ 
 
 ---
 
