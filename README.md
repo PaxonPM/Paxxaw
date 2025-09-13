@@ -5,6 +5,10 @@
 
 <h3 align='left'>Tools and Languages</h3>
 <p align='left'>
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="40" height="40"/>
+</a>
+
 <a href="https://www.python.org/" target='_blank' rel='noreferrer'>
 <img src='https://www.vectorlogo.zone/logos/python/python-icon.svg' alt="python" width="40" height="40"/>
 </a> 
